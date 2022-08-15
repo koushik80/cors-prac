@@ -16,3 +16,5 @@ app.put("/data", (req, res) => {
         description: "Land of Sauna & Lakes",
     });
 });
+
+app.listen(3000);
